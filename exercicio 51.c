@@ -41,9 +41,6 @@ int main() {
                 pessoas_nao_fem++;
                 totalnao++;
             }
-        } else {
-            printf("Sexo invalido. Digite M ou F.\n");
-            i--; 
         }
     }
 
